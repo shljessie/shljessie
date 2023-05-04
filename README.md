@@ -7,6 +7,11 @@
  Hi there 👋
  I am a Software Engineer👩🏻‍💻, HCI and AI Researcher📚 passionate about creating tools that can empower communities using AI. 
  Check out my portfolio : https://shljessie.github.io/ 
+ 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+</div>
+
 
 
 - 🔭 I’m currently working on developing a Chrome Browser Extension for Privacy Management with Cookies
