@@ -19,4 +19,4 @@
 
 [![Seonghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shljessie)](https://github.com/shljessie/github-readme-stats)
 
-[![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=shljessie&hide=html,CSS,Jupyter Notebook>)](https://github.com/shljessie/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=shljessie&hide=html,CSS,Jupyter Notebook&show_icons=true&theme=radical>)](https://github.com/shljessie/github-readme-stats)
