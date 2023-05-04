@@ -2,15 +2,14 @@
  ### Seonghee Lee 
  <em>(I also go by Jessie, my Korean name is 이승희) </em>
  
+ <img src="https://komarev.com/ghpvc/?username=shljessie&style=flat-square&color=blue" alt=""/>
+ 
  Currently Based in📍 Istanbul, Turkiye
  
  Hi there 👋
  I am a Software Engineer👩🏻‍💻, HCI and AI Researcher📚 passionate about creating tools that can empower communities using AI. 
  Check out my portfolio : https://shljessie.github.io/ 
- 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
-</div>
+
 
 
 
