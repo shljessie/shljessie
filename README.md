@@ -17,6 +17,6 @@
 - ⚡ Fun fact: In my free time I like to run marathons (Istanbul 21k marathon), do yoga/pilates, and walk my dog Teddy! 
 
 
-[![Seonghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shljessie)](https://github.com/shljessie/github-readme-stats)
+[![Seonghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shljessie&show_icons=true&theme=radical)](https://github.com/shljessie/github-readme-stats)
 
 [![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=shljessie&hide=html,CSS,Jupyter Notebook&show_icons=true&theme=radical>)](https://github.com/shljessie/github-readme-stats)
