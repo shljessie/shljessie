@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on developing a Chrome Browser Extension for Privacy Management with Cookies
+- 🔭 I’m currently working on developing a Bias Data Generator for Training AutoCorrecting ML models using LangChain!
 - 🌱 I’m currently learning how to develop libraries for visualizing neural networks
 - 👯 I’m looking to collaborate on any development related projects
 - 📫 How to reach me: jessielee.shl@gmail.com
