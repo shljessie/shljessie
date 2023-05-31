@@ -11,11 +11,6 @@
  Check out my portfolio : https://shljessie.github.io/ 
 
 
-
-
-- 🔭 I’m currently working on developing a Bias Data Generator for Training AutoCorrecting ML models using LangChain!
-- 🌱 I’m currently learning how to develop libraries for visualizing neural networks
-- 👯 I’m looking to collaborate on any development related projects
 - 📫 How to reach me: jessielee.shl@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my free time I like to run marathons (Istanbul 21k marathon), do yoga/pilates, and walk my dog Teddy! 
