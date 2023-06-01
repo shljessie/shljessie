@@ -19,3 +19,5 @@
 <!-- [![Seonghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shljessie&show_icons=true&theme=radical)](https://github.com/shljessie/github-readme-stats) -->
 
 [![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=shljessie&hide=html,CSS,Jupyter Notebook&show_icons=true&theme=radical>)](https://github.com/shljessie/github-readme-stats)
+
+- I've used : Python, React, Javscript, Nestjs, Typescript, Django, Pytorch, Tensorflow, GoogleColab/JupyterNotebooks, Swagger, D3.js, SQL, Postman, Socketio, Docker ...etc  
