@@ -2,7 +2,7 @@
  ### Seonghee Lee 
  <em>(I also go by Jessie, my Korean name is 이승희) </em>
  
- <img src="https://komarev.com/ghpvc/?username=shljessie&style=flat-square&color=blue" alt=""/>
+<!--  <img src="https://komarev.com/ghpvc/?username=shljessie&style=flat-square&color=blue" alt=""/> -->
  
  Currently Based in📍 Istanbul, Turkiye
  
