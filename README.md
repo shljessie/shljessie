@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: jessielee.shl@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: In my free time I like to run marathons (Istanbul 21k marathon), do yoga/pilates, and walk my dog Teddy! 
-
 
 <!-- [![Seonghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shljessie&show_icons=true&theme=radical)](https://github.com/shljessie/github-readme-stats) -->
 
