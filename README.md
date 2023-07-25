@@ -16,7 +16,6 @@
 [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)]()
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]()
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]()
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)]()
 
 </div>
 
