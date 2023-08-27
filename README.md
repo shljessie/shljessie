@@ -25,7 +25,6 @@
 
 ## 📫 Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessielee.shl@gmail.com)](mailto:jessielee.shl@gmail.com)
-https://badgen.net/badge/website/portfolio/red?icon=home
+shl1027@stanford.edu
 
 
