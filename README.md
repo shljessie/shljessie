@@ -17,7 +17,6 @@
 <br>
 
 ## 📫 Contacts
-
-shl1027@stanford.edu
+jessielee.shl@gmail.com
 
 
